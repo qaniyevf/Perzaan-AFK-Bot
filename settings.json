@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "felixteam.aternos.me",
+    "port": 22898,
     "version": "1.21.1"
   },
   "position": {
