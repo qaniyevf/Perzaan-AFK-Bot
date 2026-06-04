@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 200,
       "messages": [
-        " > Discord sunucumuza katilmak icin: discord.gg/QwFARxRX3V",
-        " > Guncellemeler ve kurallar icin Discord: discord.gg/QwFARxRX3V",
-        " > Muhabbet ve destek talepleri icin Discord: discord.gg/QwFARxRX3V"
+        "Discord sunucumuza katilmak icin: discord.gg/QwFARxRX3V",
+        "Guncellemeler ve kurallar icin Discord: discord.gg/QwFARxRX3V",
+        "Muhabbet ve destek talepleri icin Discord: discord.gg/QwFARxRX3V"
       ]
     },
     "chat-log": true,
